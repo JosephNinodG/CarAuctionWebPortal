@@ -5,26 +5,62 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Web portal</title>
-    <link rel="stylesheet" type="text/css" href="WebPortalStyleSheet.css">
+    <link rel="stylesheet" type="text/css" href="GlobalSS.css">
+    <link rel="stylesheet" type="text/css" href="WebPortalSS.css">
 </head>
 <body>
 
-    <div class="box">
-        <div class="row header">
-            <div class="textcontent">
-                    Header
-            </div>
-        </div>
+    <header>
 
-        <div class="row banner">
-            <div class="textcontent">
-                    Banner of fixed height
-            </div>
-        </div>
+    </header>
 
-        <div class="row content">
-            <div class="textcontent">
-                    Content fills space
+    <div class="banner">
+        <div class="textcontent"> <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+            Countdown timer goes here
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                Car container 1 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+                <div class="col">
+                Car container 2 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                Car container 3 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+                <div class="col">
+                Car container 4 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                Car container 5 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+                <div class="col">
+                Car container 6 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>                
+            </div>
+            <div class="row">
+                <div class="col">
+                Car container 7 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+                <div class="col">
+                Car container 8 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                Car container 9 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
+                <div class="col">
+                Car container 10 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                </div>
             </div>
         </div>
     </div>

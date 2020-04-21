@@ -1,0 +1,12 @@
+header {
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #262626;
+}
+
+.banner {
+    height: 70px;
+    width: 100%;
+    background-color: whitesmoke;
+}
