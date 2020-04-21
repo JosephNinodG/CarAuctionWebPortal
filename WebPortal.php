@@ -5,11 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Web portal</title>
+    <link rel="stylesheet" type="text/css" href="WebPortalStyleSheet.css">
 </head>
 <body>
 
     <header id="WebportalHeader">
-    
+
     </header>
 
     <div id="AuctionCountdownBanner">
