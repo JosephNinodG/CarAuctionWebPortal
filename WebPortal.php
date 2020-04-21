@@ -9,16 +9,24 @@
 </head>
 <body>
 
-    <header id="WebportalHeader">
+    <div class="box">
+        <div class="row header">
+            <div class="textcontent">
+                    Header
+            </div>
+        </div>
 
-    </header>
+        <div class="row banner">
+            <div class="textcontent">
+                    Banner of fixed height
+            </div>
+        </div>
 
-    <div id="AuctionCountdownBanner">
-
-    </div>
-
-    <div id="content">
-
+        <div class="row content">
+            <div class="textcontent">
+                    Content fills space
+            </div>
+        </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
