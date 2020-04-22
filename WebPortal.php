@@ -25,325 +25,397 @@
             <div class="row">
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
-                        </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
                     </div>    
                 </div>
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div>  
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="carimage">
-                            image
-                        </div>
-                        <div class="carprice">
-                            price
-                        </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
-                        </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
-                </div>
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="carimage">
-                            image
-                        </div>
-                        <div class="carprice">
-                            price
-                        </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
-                        </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="carimage">
-                            image
-                        </div>
-                        <div class="carprice">
-                            price
-                        </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
-                        </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
-                </div>
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="carimage">
-                            image
-                        </div>
-                        <div class="carprice">
-                            price
-                        </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
-                        </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
-                        </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
-                        </div>
-                    </div> 
+                    </div>    
                 </div>
                 <div class="col">
                     <div class="carcontainer">
-                        <div class="carimage">
-                            image
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carprice">
-                            price
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                        <table class="cardetails">
-                            <tr>
-                                <td>icon</td>
-                                <td>icon</td>
-                            </tr>
-                        </table>
-                        <div class="cardetailsbttn">
-                            details button
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
                         </div>
-                        <div class="carauctionstatus">
-                            car auction status
+                    </div>    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
                         </div>
-                        <div class="carvote">
-                            car vote number
-                            vote button
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
                         </div>
-                    </div> 
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon</td>
+                                    <td>icon</td>
+                                </tr>
+                            </table>
+                            <div class="cardetailsbttn">
+                                details button
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                vote button
+                            </div>
+                        </div>
+                    </div>    
                 </div>
             </div>
         </div>
