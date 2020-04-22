@@ -24,42 +24,228 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                Car container 1 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                            image
+                        </div>
+                        <div class="carprice">
+                            price
+                        </div>
+                        <table class="cardetails">
+                            <tr>
+                                <td>icon</td>
+                                <td>icon</td>
+                            </tr>
+                        </table>
+                        <div class="cardetailsbttn">
+                            details button
+                        </div>
+                        <div class="carauctionstatus">
+                            car auction status
+                        </div>
+                        <div class="carvote">
+                            car vote number
+                            vote button
+                        </div>
+                        Car container 1 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>    
                 </div>
                 <div class="col">
-                Car container 2 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 2 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                Car container 3 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 3 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
                 <div class="col">
-                Car container 4 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 4 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                Car container 5 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 5 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>    
                 </div>
                 <div class="col">
-                Car container 6 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
-                </div>                
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 6 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
+                </div>
             </div>
             <div class="row">
                 <div class="col">
-                Car container 7 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 7 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
                 <div class="col">
-                Car container 8 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 8 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                Car container 9 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 9 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>    
                 </div>
                 <div class="col">
-                Car container 10 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 10 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 11 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
+                </div>
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="carimage">
+                        </div>
+                        <div class="carprice">
+                        </div>
+                        <table class="cardetails">
+                        </table>
+                        <div class="cardetailsbttn">
+                        </div>
+                        <div class="carauctionstatus">
+                        </div>
+                        <div class="carvote">
+                        </div>
+                        Car container 12 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+                    </div>   
                 </div>
             </div>
         </div>

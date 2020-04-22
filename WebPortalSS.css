@@ -4,12 +4,6 @@ body {
     margin: 0;
 }
 
-.content {
-    height: fit-content;
-    width: 100%;
-    background-color: #262626;
-}
-
 .textcontent { /*TO HELP VIEW WHERE CONTENT WILL GO*/
     width: 100%;
     text-align: center;
@@ -19,4 +13,8 @@ body {
     align-content: center;
     text-align: center;
     color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+}
+
+.carcontainer {
+    border: 1px dotted black;
 }
