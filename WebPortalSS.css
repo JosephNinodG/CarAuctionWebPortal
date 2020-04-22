@@ -19,8 +19,16 @@ body {
     border: 1px dotted black;
 }
 
+.leftblock {
+    float: left;
+}
+
 .carimage {
-    
+
+}
+
+.centerblock {
+    float: left;
 }
 
 .carprice {
@@ -35,8 +43,12 @@ body {
 
 }
 
+.rightblock {
+    float: right;
+}
+
 .carauctionstatus {
-    
+
 }
 
 .carvote {
