@@ -47,7 +47,6 @@
                             car vote number
                             vote button
                         </div>
-                        Car container 1 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>    
                 </div>
                 <div class="col">
@@ -64,7 +63,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 2 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
@@ -83,7 +81,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 3 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
                 <div class="col">
@@ -100,7 +97,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 4 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
@@ -119,7 +115,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 5 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>    
                 </div>
                 <div class="col">
@@ -136,7 +131,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 6 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
@@ -155,7 +149,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 7 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
                 <div class="col">
@@ -172,7 +165,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 8 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
@@ -191,7 +183,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 9 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>    
                 </div>
                 <div class="col">
@@ -208,7 +199,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 10 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
@@ -227,7 +217,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 11 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
                 <div class="col">
@@ -244,7 +233,6 @@
                         </div>
                         <div class="carvote">
                         </div>
-                        Car container 12 <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
                     </div>   
                 </div>
             </div>
