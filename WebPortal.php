@@ -14,7 +14,9 @@
         <a href="LoginPage.php">
             <button type='submit' class="btn btn-primary" id='loginbttn'>Login</button>
         </a>
-        <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+        <a href="LoginPage.php">
+            <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+        </a>
         </div>
     </header>
     <div class="banner">
