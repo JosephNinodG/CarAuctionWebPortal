@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 
-.container {
+.container-fluid {
     align-content: center;
     text-align: center;
     color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
