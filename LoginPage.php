@@ -11,6 +11,7 @@
 <body style="background-color: #262626;">
     <header></header>
     <div class="container">
+    <?php if(isset($_GET['badpass=1'])){echo "<div class='alert alert-danger' role='alert'>Incorrect login information provided</div>";}?>
         <form action='login.php' method='post' class="loginform">
             <div class="form-group">
                 <label for="username" class="labelstyle">Username</label>
