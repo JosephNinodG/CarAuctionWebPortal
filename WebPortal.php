@@ -11,7 +11,10 @@
 <body>
 
     <header>
-
+        <div class="bttncontainer">
+        <button type='submit' class="btn btn-primary" id='loginbttn'>Login</button>
+        <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+        </div>
     </header>
 
     <div class="banner">
@@ -36,12 +39,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -50,7 +59,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -68,46 +79,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
                                 </tr>
-                            </table>
-                            <div class="cardetailsbttn">
-                                details button
-                            </div>
-                        </div>
-                        <div class="rightblock">
-                            <div class="carauctionstatus">
-                                car auction status
-                            </div>
-                            <div class="carvote">
-                                car vote number
-                                vote button
-                            </div>
-                        </div>
-                    </div>    
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="leftblock">
-                            <div class="carimage">
-                                image
-                            </div>
-                        </div>
-                        <div class="centerblock">
-                            <div class="carprice">
-                                price
-                            </div>
-                            <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -116,39 +99,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
-                            </div>
-                        </div>
-                    </div>    
-                </div>
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="leftblock">
-                            <div class="carimage">
-                                image
-                            </div>
-                        </div>
-                        <div class="centerblock">
-                            <div class="carprice">
-                                price
-                            </div>
-                            <table class="cardetails">
-                                <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
-                                </tr>
-                            </table>
-                            <div class="cardetailsbttn">
-                                details button
-                            </div>
-                        </div>
-                        <div class="rightblock">
-                            <div class="carauctionstatus">
-                                car auction status
-                            </div>
-                            <div class="carvote">
-                                car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -168,12 +121,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -182,7 +141,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -200,46 +161,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
                                 </tr>
-                            </table>
-                            <div class="cardetailsbttn">
-                                details button
-                            </div>
-                        </div>
-                        <div class="rightblock">
-                            <div class="carauctionstatus">
-                                car auction status
-                            </div>
-                            <div class="carvote">
-                                car vote number
-                                vote button
-                            </div>
-                        </div>
-                    </div>    
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="leftblock">
-                            <div class="carimage">
-                                image
-                            </div>
-                        </div>
-                        <div class="centerblock">
-                            <div class="carprice">
-                                price
-                            </div>
-                            <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -248,39 +181,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
-                            </div>
-                        </div>
-                    </div>    
-                </div>
-                <div class="col">
-                    <div class="carcontainer">
-                        <div class="leftblock">
-                            <div class="carimage">
-                                image
-                            </div>
-                        </div>
-                        <div class="centerblock">
-                            <div class="carprice">
-                                price
-                            </div>
-                            <table class="cardetails">
-                                <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
-                                </tr>
-                            </table>
-                            <div class="cardetailsbttn">
-                                details button
-                            </div>
-                        </div>
-                        <div class="rightblock">
-                            <div class="carauctionstatus">
-                                car auction status
-                            </div>
-                            <div class="carvote">
-                                car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -300,12 +203,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -314,7 +223,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -332,12 +243,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -346,7 +263,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -366,12 +285,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -380,7 +305,9 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -398,12 +325,18 @@
                             </div>
                             <table class="cardetails">
                                 <tr>
-                                    <td>icon</td>
-                                    <td>icon</td>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
                                 </tr>
                             </table>
-                            <div class="cardetailsbttn">
-                                details button
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
                             </div>
                         </div>
                         <div class="rightblock">
@@ -412,7 +345,173 @@
                             </div>
                             <div class="carvote">
                                 car vote number
-                                vote button
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
+                                </tr>
+                            </table>
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
+                                </tr>
+                            </table>
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
+                                </tr>
+                            </table>
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+                <div class="col">
+                    <div class="carcontainer">
+                        <div class="leftblock">
+                            <div class="carimage">
+                                image
+                            </div>
+                        </div>
+                        <div class="centerblock">
+                            <div class="carprice">
+                                price
+                            </div>
+                            <table class="cardetails">
+                                <tr>
+                                    <td>icon1</td>
+                                    <td>icon2</td>
+                                    <td>icon3</td>
+                                </tr>
+                                <tr>
+                                    <td>icon4</td>
+                                    <td>icon5</td>
+                                    <td>icon6</td>
+                                </tr>
+                            </table>
+                            <div class="detailsbttncontainer">
+                                <button type='submit' id='cardetailsbttn'>Details</button>
+                            </div>
+                        </div>
+                        <div class="rightblock">
+                            <div class="carauctionstatus">
+                                car auction status
+                            </div>
+                            <div class="carvote">
+                                car vote number
+                                <div class="votebttncontainer">
+                                    <button type='submit' id='votebttn'>Vote</button>
+                                </div>
                             </div>
                         </div>
                     </div>    
@@ -420,6 +519,9 @@
             </div>
         </div>
     </div>
+
+    <footer>
+    </footer>
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
