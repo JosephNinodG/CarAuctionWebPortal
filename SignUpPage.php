@@ -8,9 +8,25 @@
     <link rel="stylesheet" type="text/css" href="GlobalSS.css">
     <link rel="stylesheet" type="text/css" href="SignUpPageSS.css">
 </head>
-<body>
+<body style="background-color:#262626">
     <header></header>
     <div class="container">
+        <form action='signup.php' method='post' class="signupform">
+            <div class="form-group">
+                <label for="fullname" class="labelstyle">Full name</label>
+                <input type="text" name="fullname" class="form-control" id="fullname" placeholder="Full name"> 
+            </div>
+            <div class="form-group">
+                <label for="username" class="labelstyle">Username</label>
+                <input type="text" name="username" class="form-control" id="username" placeholder="Username"> 
+                <!-- change to type="email" -->
+            </div>
+            <div class="form-group">
+                <label for="password" class="labelstyle">Password</label>
+                <input type="password" name="password" class="form-control" id="password" placeholder="Password">
+            </div>
+            <button type='submit' class="btn btn-primary" id='formbutton'>Sign up</button>
+        </form>
     </div>
     <footer></footer>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
