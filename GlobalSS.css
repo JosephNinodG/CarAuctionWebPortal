@@ -30,6 +30,18 @@ header {
     padding-top: 20px;
 }
 
+.labelstyle {
+    font-weight: bold;
+}
+
+#formbutton {
+    background-color: black;
+    border-color: black;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+}
+
 footer {
     bottom: 0;
     height: 50px;
