@@ -4,6 +4,24 @@ body {
     margin: 0;
 }
 
+@media (max-width: 415px) {
+    .leftblock {
+        width: 100% !important;
+    }
+
+    .centerblock {
+        float: left !important;
+        width: 50% !important;
+        height: 150px !important;
+    }
+
+    .rightblock {
+        float: right !important;
+        width: 50% !important;
+        height: 150px !important;
+    }
+}
+
 .textcontent { /*TO HELP VIEW WHERE CONTENT WILL GO*/
     width: 100%;
     text-align: center;
