@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+header {
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #262626;
+}
+
+.bttncontainer {
+    float: right;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.banner {
+    height: 70px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.content {
+    height: fit-content;
+    width: 100%;
+    background-color: #262626;
+    padding-top: 20px;
+}
+
+footer {
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #262626;
+}
