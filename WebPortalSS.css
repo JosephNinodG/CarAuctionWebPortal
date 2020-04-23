@@ -16,11 +16,14 @@ body {
 }
 
 .carcontainer {
-    border: 1px dotted black;
+    border: 1px solid black;
 }
 
 .leftblock {
     float: left;
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
 }
 
 .carimage {
@@ -29,28 +32,41 @@ body {
 
 .centerblock {
     float: left;
+    border: 1px solid black;
+    width: 40%;
+    height: 200px;
 }
 
 .carprice {
-
+    height: 20%;
 }
 
 .cardetails {
-
+    margin-left: auto;
+    margin-right: auto;
+    height: 60%;
 }
 
-.cardetailsbttn {
-
+.detailsbttncontainer {
+    height: 20%;
 }
 
 .rightblock {
     float: right;
+    border: 1px solid black;
+    width: 20%;
+    height: 200px;
 }
 
 .carauctionstatus {
-
+    height: 60%;
 }
 
 .carvote {
-    
+    height: 40%;
 }
+
+.votebttncontainer {
+
+}
+
