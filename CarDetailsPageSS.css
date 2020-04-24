@@ -5,7 +5,9 @@ body {
 }
 
 @media (max-width: 415px) {
-
+    .carimagecontainer {
+        height: 200px !important;
+    }
 }
 
 .auctioninfobanner {
@@ -29,3 +31,59 @@ body {
     text-align: center !important;
     color: white !important; /*TO HELP VIEW WHERE CONTENT WILL GO*/
 }
+
+.carimagecontainer {
+    border: 1px solid black;
+    width: 100%;
+    height: 400px;
+}
+
+.carpricecontainer {
+    height: 50px;
+    border: 1px solid black;
+}
+
+.cardetails {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 100%;
+}
+
+.carvotescontainer {
+    height: 10%;
+    border: 1px solid black;
+}
+
+.carvotenumcontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.carvotebttncontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.commentsectioncontainer {
+    border: 1px solid black;
+    height: 90%;
+}
+
+.allcommentscontainer {
+    border: 1px solid black;
+    height: 80%;
+}
+
+.usercommentcontainer {
+    border: 1px solid black;
+    height: 20%;
+}
+
+
+

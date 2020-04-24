@@ -24,7 +24,6 @@
             Countdown timer goes here
         </div>
     </div>
-
     <div class="auctioninfobanner">
         <div class="container-fluid" id="auctioninfofluidcontainer">
             <div class="row">
@@ -40,29 +39,17 @@
             </div>
         </div>
     </div>
-
-
     <div class="content">
         <div class="container-fluid" id="maincontentfluidcontainer">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                    <div class="allcarimagescontainer">
-                        <div class="mainimage">Image1</div>
-                        <div class="secondaryimage1">Image2</div>
-                        <div class="secondaryimage2">Image3</div>
+                    <div class="carimagecontainer">
+                        image
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                    <div class="carvotescontainer">
-                        <div class="carvotenumcontainer">Number of votes</div>
-                        <div class="carvotebttncontainer">Vote button</div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="cardetailscontainer">
-                        <div class="carpricecontainer">Price of car</div>
+                        <div class="carpricecontainer">
+                            Price of car
+                        </div>
                         <table class="cardetails">
                             <tr>
                                 <td>icon1</td>
@@ -86,6 +73,10 @@
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+                    <div class="carvotescontainer">
+                        <div class="carvotenumcontainer">Number of votes</div>
+                        <div class="carvotebttncontainer">Vote button</div>
+                    </div>
                     <div class="commentsectioncontainer">
                         <div class="allcommentscontainer">Comment section</div>
                         <div class="usercommentcontainer">User comment area</div>
