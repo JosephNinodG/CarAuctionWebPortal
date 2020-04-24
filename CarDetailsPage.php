@@ -17,12 +17,20 @@
     <div class="content">
         <div class="container-fluid">
             <div class="row">
-                <div class="col"></div>
-                <div class="col"></div>
+                <div class="col">
+                    <div class="allcarimagescontainer"></div>
+                </div>
+                <div class="col">
+                    <div class="carvotescontainer"></div>
+                </div>
             </div>
             <div class="row">
-                <div class="col"></div>
-                <div class="col"></div>
+                <div class="col">
+                    <div class="cardetailscontainer"></div>
+                </div>
+                <div class="col">
+                    <div class="commentsectioncontainer"></div>
+                </div>
             </div>
         </div>
     </div>
