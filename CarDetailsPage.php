@@ -11,25 +11,41 @@
 <body>
     <header></header>
     <div class="banner">
-        <div class="auctioninfocontainer"></div>
+        <div class="auctioninfocontainer">
+            <div class="auctionlotnum"></div>
+            <div class="carmakemodel"></div>
+        </div>
         <div class="auctionstatuscontainer"></div>
     </div>
     <div class="content">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
-                    <div class="allcarimagescontainer"></div>
+                    <div class="allcarimagescontainer">
+                        <div class="mainimage"></div>
+                        <div class="secondaryimage1"></div>
+                        <div class="secondaryimage2"></div>
+                    </div>
                 </div>
                 <div class="col">
-                    <div class="carvotescontainer"></div>
+                    <div class="carvotescontainer">
+                        <div class="carvotenumcontainer"></div>
+                        <div class="carvotebttncontainer"></div>
+                    </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
-                    <div class="cardetailscontainer"></div>
+                    <div class="cardetailscontainer">
+                        <div class="carpricecontainer"></div>
+                        <table class="cardetails"></table>
+                    </div>
                 </div>
                 <div class="col">
-                    <div class="commentsectioncontainer"></div>
+                    <div class="commentsectioncontainer">
+                        <div class="allcommentscontainer"></div>
+                        <div class="usercommentcontainer"></div>
+                    </div>
                 </div>
             </div>
         </div>
