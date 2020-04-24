@@ -11,8 +11,12 @@
 <body>
     <header>
         <div class="bttncontainer">
-        <button type='submit' class="btn btn-primary" id='loginbttn'>Login</button>
-        <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+        <a href="LoginPage.php">
+            <button type='submit' class="btn btn-primary" id='loginbttn'>Login</button>
+        </a>
+        <a href="SignUpPage.php">
+            <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+        </a>
         </div>
     </header>
     <div class="banner">
