@@ -9,7 +9,16 @@
     <link rel="stylesheet" type="text/css" href="CarDetailsPageSS.css">
 </head>
 <body>
-    <header></header>
+    <header>
+        <div class="bttncontainer">
+            <a href="LoginPage.php">
+                <button type='submit' class="btn btn-primary" id='loginbttn'>Login</button>
+            </a>
+            <a href="SignUpPage.php">
+                <button type='submit' class="btn btn-primary" id='signupbttn'>Sign up</button>
+            </a>
+        </div>
+    </header>
     <div class="banner">
         <div class="textcontent"> <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
             Countdown timer goes here
