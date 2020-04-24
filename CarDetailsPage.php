@@ -12,39 +12,58 @@
     <header></header>
     <div class="banner">
         <div class="auctioninfocontainer">
-            <div class="auctionlotnum"></div>
-            <div class="carmakemodel"></div>
+            <div class="auctionlotnum">Lot Num</div>
+            <div class="carmakemodel">Car Make | Car Model</div>
         </div>
-        <div class="auctionstatuscontainer"></div>
+        <div class="auctionstatuscontainer">Auction Status: #####</div>
     </div>
     <div class="content">
         <div class="container-fluid">
             <div class="row">
-                <div class="col">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="allcarimagescontainer">
-                        <div class="mainimage"></div>
-                        <div class="secondaryimage1"></div>
-                        <div class="secondaryimage2"></div>
+                        <div class="mainimage">Image1</div>
+                        <div class="secondaryimage1">Image2</div>
+                        <div class="secondaryimage2">Image3</div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="carvotescontainer">
-                        <div class="carvotenumcontainer"></div>
-                        <div class="carvotebttncontainer"></div>
+                        <div class="carvotenumcontainer">Number of votes</div>
+                        <div class="carvotebttncontainer">Vote button</div>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="cardetailscontainer">
-                        <div class="carpricecontainer"></div>
-                        <table class="cardetails"></table>
+                        <div class="carpricecontainer">Price of car</div>
+                        <table class="cardetails">
+                            <tr>
+                                <td>icon1</td>
+                                <td>icon2</td>
+                                <td>icon3</td>
+                                <td>icon4</td>
+                            </tr>
+                            <tr>
+                                <td>icon1</td>
+                                <td>icon2</td>
+                                <td>icon3</td>
+                                <td>icon4</td>
+                            </tr>
+                            <tr>
+                                <td>icon1</td>
+                                <td>icon2</td>
+                                <td>icon3</td>
+                                <td>icon4</td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="commentsectioncontainer">
-                        <div class="allcommentscontainer"></div>
-                        <div class="usercommentcontainer"></div>
+                        <div class="allcommentscontainer">Comment section</div>
+                        <div class="usercommentcontainer">User comment area</div>
                     </div>
                 </div>
             </div>

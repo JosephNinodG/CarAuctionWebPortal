@@ -3,3 +3,17 @@ body {
     height: 100%;
     margin: 0;
 }
+
+@media (max-width: 415px) {
+
+}
+
+.container-fluid {
+    align-content: center;
+    text-align: center;
+    color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+}
+
+.row {
+    padding-top: 20px;
+}
