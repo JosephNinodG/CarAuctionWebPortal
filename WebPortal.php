@@ -20,9 +20,7 @@
         </div>
     </header>
     <div class="banner">
-        <div class="textcontent"> <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
-            Countdown timer goes here
-        </div>
+        Countdown timer goes here
     </div>
     <div class="content">
         <div class="container-fluid">

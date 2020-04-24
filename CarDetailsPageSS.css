@@ -8,12 +8,24 @@ body {
 
 }
 
-.container-fluid {
-    align-content: center;
-    text-align: center;
-    color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+.auctioninfobanner {
+    width: 100%;
+    background-color: lightgrey;
+    height: fit-content;
 }
 
-.row {
-    padding-top: 20px;
+.auctioninfocontainer {
+    height: 100%;
+    float: left;
+}
+
+.auctionstatuscontainer {
+    height: 100%;
+    float: right;
+}
+
+#maincontentfluidcontainer {
+    align-content: center !important;
+    text-align: center !important;
+    color: white !important; /*TO HELP VIEW WHERE CONTENT WILL GO*/
 }

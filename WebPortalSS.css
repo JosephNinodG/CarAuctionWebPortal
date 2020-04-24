@@ -22,10 +22,10 @@ body {
     }
 }
 
-.textcontent { /*TO HELP VIEW WHERE CONTENT WILL GO*/
+/* .textcontent {
     width: 100%;
     text-align: center;
-}
+} */
 
 .container-fluid {
     align-content: center;

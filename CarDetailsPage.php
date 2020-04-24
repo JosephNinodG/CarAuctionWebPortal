@@ -11,14 +11,30 @@
 <body>
     <header></header>
     <div class="banner">
-        <div class="auctioninfocontainer">
-            <div class="auctionlotnum">Lot Num</div>
-            <div class="carmakemodel">Car Make | Car Model</div>
+        <div class="textcontent"> <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
+            Countdown timer goes here
         </div>
-        <div class="auctionstatuscontainer">Auction Status: #####</div>
     </div>
+
+    <div class="auctioninfobanner">
+        <div class="container-fluid" id="auctioninfofluidcontainer">
+            <div class="row">
+                <div class="col">
+                    <div class="auctioninfocontainer">
+                        <div class="auctionlotnum">Lot Num</div>
+                        <div class="carmakemodel">Car Make | Car Model</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="auctionstatuscontainer">Auction Status: #####</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <div class="content">
-        <div class="container-fluid">
+        <div class="container-fluid" id="maincontentfluidcontainer">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="allcarimagescontainer">
