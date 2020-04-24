@@ -11,6 +11,13 @@
 <body style="background-color:#262626">
     <header></header>
     <div class="container">
+        <div class="signuptext">
+            <h3>Thank you for choosing to sign up to the car auction web portal.</h3>
+            <p style="color:lightgray">
+                With an account you can see your total number of votes as well as comment on your favourite cars on the list.
+                Just fill out the form below and you can start enjoying the car auction web portal to its full potential!
+            </p>
+        </div>
         <form action='signup.php' method='post' class="signupform">
             <div class="form-group">
                 <label for="fullname" class="labelstyle">Full name</label>
@@ -27,6 +34,8 @@
             </div>
             <button type='submit' class="btn btn-primary" id='formbutton'>Sign up</button>
         </form>
+        <div class=captchacontainer>
+        </div>
     </div>
     <footer></footer>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
