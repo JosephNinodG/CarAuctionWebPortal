@@ -6,6 +6,7 @@ body {
 
 header {
     height: 10%;
+    color: white;
 }
 
 footer {
@@ -21,11 +22,20 @@ footer {
 }
 
 .textarea {
-
+    float: left;
+    padding-left: 20px;
+    padding-top: 50px;
 }
 
 .usernamecontainer {
+    float: left;
+    padding-left: 20px;
+    padding-top: 50px;
+}
 
+.usercontainer {
+    float: right;
+    padding-right: 20px;
 }
 
 .container-fluid {

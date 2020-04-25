@@ -10,12 +10,11 @@
 </head>
 <body>
     <header>
-        <div class="usercontainer"></div>
+        <div class="textarea">Welcome,</div>
+        <div class="usernamecontainer">User</div>
+        <div class="usercontainer">user logo here</div>
     </header>
-    <div class="banner">
-        <div class="textarea"></div>
-        <div class="usernamecontainer"></div>
-    </div>
+    <div class="banner"></div>
     <div class="content">
         <div class="container-fluid">
             <div class="row">
