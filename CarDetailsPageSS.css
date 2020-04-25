@@ -52,8 +52,7 @@ body {
 }
 
 .carvotescontainer {
-    height: 10%;
-    border: 1px solid black;
+    height: 50px;
 }
 
 .carvotenumcontainer {
@@ -71,8 +70,7 @@ body {
 }
 
 .commentsectioncontainer {
-    border: 1px solid black;
-    height: 90%;
+    height: 700px;
 }
 
 .allcommentscontainer {
