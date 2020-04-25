@@ -88,5 +88,14 @@ body {
     height: 20%;
 }
 
+.commentinput {
+    width: 100%;
+    height: 80%;
+}
+
+.postbttn {
+    width: 100%;
+    height: 20%;
+}
 
 

@@ -81,7 +81,10 @@
                     </div>
                     <div class="commentsectioncontainer">
                         <div class="allcommentscontainer">Comment section</div>
-                        <div class="usercommentcontainer">User comment area</div>
+                        <div class="usercommentcontainer">
+                            <textarea type="text" class="commentinput" name="commentinput" placeholder="write a comment..."></textarea>
+                            <button type='submit' class='postbttn'>Post</button>
+                        </div>
                     </div>
                 </div>
             </div>
