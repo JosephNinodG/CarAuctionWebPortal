@@ -4,6 +4,22 @@ body {
     margin: 0;
 }
 
+header {
+    height: 10%;
+}
+
+footer {
+    height: 10%;
+}
+
+.banner {
+    height: 15%;
+}
+
+.content {
+    height: 50%;
+}
+
 .textarea {
 
 }
@@ -13,11 +29,19 @@ body {
 }
 
 .container-fluid {
+    height: 100%;
+}
 
+.row {
+    height: 50%;
+}
+
+.col {
+    height: 100%;
 }
 
 .optionsbox {
-    height:200px;
+    height: 100%;
     width: 100%;
     border: 1px solid black;
     background-color: grey;
