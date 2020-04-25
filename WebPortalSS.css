@@ -1,4 +1,4 @@
-html,
+html,  /*Webportal a1.2 */
 body {
     height: 100%;
     margin: 0;
@@ -22,10 +22,10 @@ body {
     }
 }
 
-.textcontent { /*TO HELP VIEW WHERE CONTENT WILL GO*/
+/* .textcontent {
     width: 100%;
     text-align: center;
-}
+} */
 
 .container-fluid {
     align-content: center;

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <!--Webportal a1.2-->
 <html lang="en">
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -20,9 +20,7 @@
         </div>
     </header>
     <div class="banner">
-        <div class="textcontent"> <!--TO HELP VIEW WHERE CONTAINERS WILL GO-->
-            Countdown timer goes here
-        </div>
+        Countdown timer goes here
     </div>
     <div class="content">
         <div class="container-fluid">

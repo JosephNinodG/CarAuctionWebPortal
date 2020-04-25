@@ -1,0 +1,115 @@
+html,  /*Webportal a1.2 */
+body {
+    height: 100%;
+    margin: 0;
+}
+
+@media (max-width: 415px) {
+    .carimagecontainer {
+        height: 200px !important;
+    }
+}
+
+.auctioninfobanner {
+    width: 100%;
+    background-color: lightgrey;
+    height: fit-content;
+}
+
+.auctioninfocontainer {
+    height: 100%;
+    float: left;
+}
+
+.auctionstatuscontainer {
+    height: 100%;
+    float: right;
+}
+
+#maincontentfluidcontainer {
+    align-content: center !important;
+    text-align: center !important;
+    color: white !important; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+}
+
+.carimagecontainer {
+    border: 1px solid black;
+    width: 100%;
+    height: 400px;
+}
+
+.carpricecontainer {
+    height: 50px;
+    border: 1px solid black;
+}
+ .textarea {
+    float: left;
+    width: 50%;
+ }
+
+ .carprice {
+    float: left;
+    width: 50%;
+ }
+
+.cardetails {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 100%;
+}
+
+.carvotescontainer {
+    height: 50px;
+}
+
+.carvotenumcontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.votenum {
+    float: left;
+    width: 50%;
+}
+
+.carvotebttncontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.votebttn {
+    width: 100%;
+    height: 100%;
+}
+
+.commentsectioncontainer {
+    height: 700px;
+}
+
+.allcommentscontainer {
+    border: 1px solid black;
+    height: 80%;
+}
+
+.usercommentcontainer {
+    border: 1px solid black;
+    height: 20%;
+}
+
+.commentinput {
+    width: 100%;
+    height: 80%;
+}
+
+.postbttn {
+    width: 100%;
+    height: 20%;
+}
+
+

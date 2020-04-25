@@ -1,4 +1,4 @@
-html,
+html,  /*Webportal a1.2 */
 body {
     height: 100%;
     margin: 0;
@@ -21,6 +21,7 @@ header {
     height: 70px;
     width: 100%;
     background-color: whitesmoke;
+    text-align: center;
 }
 
 .content {
