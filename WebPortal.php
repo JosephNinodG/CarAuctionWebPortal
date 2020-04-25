@@ -49,7 +49,9 @@
                                 </tr>
                             </table>
                             <div class="detailsbttncontainer">
-                                <button type='submit' id='cardetailsbttn'>Details</button>
+                                <a href="CarDetailsPage.php">
+                                    <button type='submit' id='cardetailsbttn'>Details</button>
+                                </a>
                             </div>
                         </div>
                         <div class="rightblock">
