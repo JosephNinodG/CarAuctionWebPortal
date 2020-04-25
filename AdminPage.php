@@ -21,24 +21,24 @@
             <div class="row">
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managecarscontainer"></div>
+                        <div class="managecarscontainer">cars</div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="manageprofilescontainer"></div>
+                        <div class="manageprofilescontainer">profiles</div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managevotescontainer"></div>
+                        <div class="managevotescontainer">votes</div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managecommentscontainer"></div>
+                        <div class="managecommentscontainer">comments</div>
                     </div>
                 </div>
             </div>
