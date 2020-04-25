@@ -24,13 +24,11 @@ footer {
 .textarea {
     float: left;
     padding-left: 20px;
-    padding-top: 50px;
 }
 
 .usernamecontainer {
     float: left;
     padding-left: 20px;
-    padding-top: 50px;
 }
 
 .usercontainer {
@@ -60,18 +58,23 @@ footer {
     color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
 }
 
-.managecarscontainer {
+.managebttn {
+    height: 100%;
+    width: 100%;
+}
 
+.managecarscontainer {
+    height: 100%;
 }
 
 .manageprofilescontainer {
-
+    height: 100%;
 }
 
 .managevotescontainer {
-
+    height: 100%;
 }
 
 .managecommentscontainer {
-
+    height: 100%;
 }

@@ -20,24 +20,32 @@
             <div class="row">
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managecarscontainer">cars</div>
+                        <div class="managecarscontainer">
+                            <button type='submit' class="managebttn">Cars</button>
+                        </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="manageprofilescontainer">profiles</div>
+                        <div class="manageprofilescontainer">
+                            <button type='submit' class="managebttn">Profiles</button>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managevotescontainer">votes</div>
+                        <div class="managevotescontainer">
+                            <button type='submit' class="managebttn">Votes</button>
+                        </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="optionsbox"> 
-                        <div class="managecommentscontainer">comments</div>
+                        <div class="managecommentscontainer">
+                            <button type='submit' class="managebttn">Comments</button>
+                        </div>
                     </div>
                 </div>
             </div>
