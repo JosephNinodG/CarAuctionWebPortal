@@ -75,7 +75,9 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="carvotescontainer">
                         <div class="carvotenumcontainer">Number of votes</div>
-                        <div class="carvotebttncontainer">Vote button</div>
+                        <div class="carvotebttncontainer">
+                            <button type='submit' class='votebttn'>Vote</button>
+                        </div>
                     </div>
                     <div class="commentsectioncontainer">
                         <div class="allcommentscontainer">Comment section</div>

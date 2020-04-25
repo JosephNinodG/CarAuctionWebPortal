@@ -69,6 +69,11 @@ body {
     height: 100%;
 }
 
+.votebttn {
+    width: 100%;
+    height: 100%;
+}
+
 .commentsectioncontainer {
     height: 700px;
 }
