@@ -42,6 +42,15 @@ body {
     height: 50px;
     border: 1px solid black;
 }
+ .textarea {
+    float: left;
+    width: 50%;
+ }
+
+ .carprice {
+    float: left;
+    width: 50%;
+ }
 
 .cardetails {
     border: 1px solid black;
@@ -60,6 +69,11 @@ body {
     width: 50%;
     border: 1px solid black;
     height: 100%;
+}
+
+.votenum {
+    float: left;
+    width: 50%;
 }
 
 .carvotebttncontainer {

@@ -48,7 +48,8 @@
                     </div>
                     <div class="cardetailscontainer">
                         <div class="carpricecontainer">
-                            Price of car
+                            <div class="textarea">Car price:</div>
+                            <div class="carprice">£ Price</div>
                         </div>
                         <table class="cardetails">
                             <tr>
@@ -74,7 +75,10 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                     <div class="carvotescontainer">
-                        <div class="carvotenumcontainer">Number of votes</div>
+                        <div class="carvotenumcontainer">
+                            <div class="textarea">Number of votes:</div>
+                            <div class="votnum">##</div>
+                        </div>
                         <div class="carvotebttncontainer">
                             <button type='submit' class='votebttn'>Vote</button>
                         </div>
