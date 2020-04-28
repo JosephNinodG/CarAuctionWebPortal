@@ -1,4 +1,4 @@
-html,  /*Webportal a1.2 */
+html,  /*Webportal a1.3 */
 body {
     height: 100%;
     margin: 0;
@@ -29,6 +29,7 @@ header {
     width: 100%;
     background-color: #262626;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .labelstyle {
