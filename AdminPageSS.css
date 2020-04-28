@@ -2,6 +2,7 @@ html,  /*Webportal a1.2 */
 body {
     height: 100%;
     margin: 0;
+    min-height: 500px;
 }
 
 header {
