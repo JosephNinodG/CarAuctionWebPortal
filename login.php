@@ -1,4 +1,4 @@
-<?php   //Webportal a1.2
+<?php   //Webportal a1.3
 session_start();
 $apiurl = ""; //add api url here
 $data = array(
