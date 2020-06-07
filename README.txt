@@ -1,11 +1,11 @@
 This is a README for the Car Auction Web portal.
 
+Place in htdocs of xampp under the folder CarAuctionWebPortal
+
 Access web portal via the following:
-http://www.teach.scam.keele.ac.uk/msc/w4c83/Web%20Tech/CarAuctionWebPortal/index.php
+http://localhost/CarAuctionWebPortal/index.php
 
-www.teach.scam.keele.ac.uk/msc/w4c83/Web%20Tech/CarAuctionWebPortal/ is the root folder
-
-- DO NOT REMOVE OR EDIT THE FOLLOWING FILES IN W DRIVE  -
+- DO NOT REMOVE OR EDIT THE FOLLOWING FILES  -
 
 CarUploadFiles - All images for the cars are stored here
 css - All stylesheets for the different page views are stored here
@@ -14,16 +14,17 @@ views - All the page views are stored here
 index - login page
 potwCars.sql and webportal-sql.sql both contain the code for the database
 
-
+Use phpMyAdmin to create MySQL database
+-Copy queries from potwCars.sql and webportal-sql.sql to create the tables in database
 
 Database details:
 
-  $servername = "katara.scam.keele.ac.uk";
-  $username = "w4c83";
-  $password = "w4c83w4c83";
-  $dbname = "w4c83";
+  $servername = "localhost";
+  $username = "<yourusername>";
+  $password = "<yourpassword>";
+  $dbname = "<database name>";
 
-These can also be found in connection.php
+Edit these in connection.php
 
 Bootstrap used for styling: https://getbootstrap.com/docs/4.5/getting-started/introduction/
 Javascript timer: https://vincoding.com/weekly-repeating-countdown-timer-javascript/
