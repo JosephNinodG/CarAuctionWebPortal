@@ -1,9 +1,8 @@
 <?php
-
-  $servername = "katara.scam.keele.ac.uk";
-  $username = "w4c83";
-  $password = "w4c83w4c83";
-  $dbname = "w4c83";
+  $servername = "localhost";
+  $username = "<yourusername>";
+  $password = "<yourpassword>";
+  $dbname = "<database name>";
 
   // Create connection
   $conn = mysqli_connect($servername, $username, $password, $dbname);
