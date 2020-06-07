@@ -1,0 +1,251 @@
+html,  /*Webportal a1.3 */
+body {
+    height: 100%;
+    margin: 0;
+}
+
+@media (max-width: 415px) {
+    .carimagecontainer {
+        height: 200px !important;
+    }
+
+    .carimage {
+        height:197px !important;
+    }
+
+    .auctioninfobanner {
+        font-size: small !important;
+    }
+
+    .cardetails {
+        font-size: medium !important;
+    }
+
+    .votnum {
+        font-size: 15px !important;
+    }
+
+    .refreshoption {
+        height: 50%;
+        padding-top: 10px !important;
+        padding-left: 10px !important;
+        width: 90%;
+        text-align: left !important;
+    }
+}
+
+.auctioninfobanner {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+#bannercol {
+    border: 1px solid black;
+}
+
+.auctioninfocontainer {
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+.auctionlotnum {
+    float: left;
+    width: 50%;
+}
+
+.carmakemodel {
+    float: left;
+    width: 50%;
+}
+
+.auctionstatuscontainer {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+#maincontentfluidcontainer {
+    align-content: center !important;
+    text-align: center !important;
+    color: white !important; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+}
+
+.carimagecontainer {
+    border: 1px solid black;
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+}
+
+.carimage {
+    height:397px;
+} 
+
+.carpricecontainer {
+    height: 50px;
+    border: 1px solid black;
+    background-color: gray;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+ .textarea {
+    float: left;
+    width: 50%;
+    text-align: right;
+    padding-right: 5px;
+ }
+
+ .carprice {
+    float: left;
+    width: 50%;
+    text-align: left;
+    padding-left: 5px;
+ }
+
+.cardetails {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 100%;
+    background-color: lightgray;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.carvotescontainer {
+    height: 60px;
+}
+
+.carvotenumcontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+    background-color: lightgray;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.votenum {
+    float: left;
+    width: 50%;
+}
+
+.carvotebttncontainer {
+    float: left;
+    width: 50%;
+    border: 1px solid black;
+    height: 100%;
+}
+
+#votebttn {
+    width: 100% !important;
+    height: 100%;
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.commentsectioncontainer {
+    height: fit-content;
+    width: 100%;
+}
+
+.itemslist {
+    color: black;
+    background-color: lightgray;
+    text-align: center;
+    overflow: scroll;
+    width: 100%;
+    height: 70%;
+}
+
+#listtable {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+    border: 3px solid black;
+}
+
+.usercommentcontainer {
+    border: 3px solid black;
+    height: 30%;
+    background-color: darkgray;
+}
+
+.commentform {
+    height:100%;
+}
+
+.commentinput {
+    width: 100%;
+    height: 40%;
+    float: left;
+}
+
+.captchacon {
+    width: 100%;
+    height: 40%;
+    float: left;
+}
+
+.captchaimagecon {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding-left: 10px;
+}
+
+.captchainputcon {
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.refreshoption {
+    height: 50%;
+    padding-top: 10px;
+    padding-left: 22px;
+    width: 90%;
+    text-align: left !important;
+}
+
+.captchainput {
+    height: 50%;
+    padding-top: 3px;
+}
+
+#captcha_code_input {
+    width: 90%;
+    bottom: 0;
+}
+
+#captcha {
+    width: 100%;
+    height: 90%;
+    padding-top: 5px;
+}
+
+#postbttn {
+    width: 100%;
+    height: 20%;
+}
+
+

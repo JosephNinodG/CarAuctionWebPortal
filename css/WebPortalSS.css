@@ -1,0 +1,175 @@
+html,  /*Webportal a1.3 */
+body {
+    height: 100%;
+    margin: 0;
+}
+
+@media (max-width: 415px) {
+    .leftblock {
+        width: 100% !important;
+    }
+
+    .centerblock {
+        float: left !important;
+        width: 50% !important;
+        height: 150px !important;
+        background-color: lightgray;
+    }
+
+    .rightblock {
+        float: right !important;
+        width: 50% !important;
+        height: 150px !important;
+        background-color: lightgray;
+    }
+
+    .detailstable {
+        font-size: small !important;
+    }
+
+    #formbutton{
+        height: 90% !important;
+    }
+
+    #votebttn{
+        height: 90% !important;
+    }
+}
+
+@media (max-width: 1281px) {
+    
+    .carvote {
+        font-size: small !important;
+    }
+}
+
+.textarea {
+    float: left;
+    padding: 5px;
+    height: 100%;
+    margin: auto;
+}
+
+.usernamecontainer {
+    float: left;
+    padding: 5px;
+    height: 100%;
+    margin: auto;
+}
+
+.container-fluid {
+    align-content: center;
+    text-align: center;
+    color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.carinfocontainer {
+    border: 2px solid black;
+    background-color: gray;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    width:100%;
+    height: 30px;
+}
+
+.lotnumcontainer {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.makemodelcontainer {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.carprice {
+    height: 100%;
+    width:50%;
+    float: left;
+    /* background-color: gray;
+    margin-left: auto;
+    margin-right: auto; */
+}
+
+.carcontainer {
+    border: 1px solid black;
+    background-color: lightgray;
+    height: 200px;
+}
+
+.leftblock {
+    float: left;
+    border: 1px solid black;
+    width: 50%;
+    height: 200px;
+}
+
+.carimagecontainer {
+    height:100%;
+    background-color: lightgray;
+}
+
+.carimage {
+    border: 1px solid black;
+    height:197px;
+} 
+
+.centerblock {
+    float: left;
+    border: 1px solid black;
+    width: 30%;
+    height: 200px;
+}
+
+.cardetails {
+    margin-left: auto;
+    margin-right: auto;
+    height: 75%;
+    padding-top: 10px;
+}
+
+.detailstable {
+    background-color: gray;
+    border: 1px solid black;
+    margin: auto;
+    height:90%;
+    width:80%;
+}
+
+.detailsbttncontainer {
+    height: 25%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.rightblock {
+    float: right;
+    border: 1px solid black;
+    width: 20%;
+    height: 200px;
+    color: black;
+    font-weight: bold;
+}
+
+.carauctionstatus {
+    height: 50%;
+}
+
+.carvote {
+    height: 25%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.votebttncontainer {
+    height: 25%;
+}

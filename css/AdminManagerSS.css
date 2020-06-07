@@ -1,0 +1,50 @@
+html,  /*Webportal a1.3 */
+body {
+    min-height: 500px;
+}
+
+@media (max-width: 441px) {
+    #listtable{
+        font-size: 70%;
+    }
+}
+
+.backbttncontainer {
+    padding: 5px;
+    float: left;
+    width: 200px;
+}
+
+#backbttn {
+    width: 200px;
+}
+
+.content {
+    height:100% !important;
+}
+
+.navbar {
+    color: white;
+    height: 100%;
+    border: 1px solid white;
+}
+
+.additem {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.itemslist {
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    width: 100%;
+}
+
+#listtable {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,38 @@
+
+.container{
+    align-content: center;
+    color: white; /*TO HELP VIEW WHERE CONTENT WILL GO*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    height: 50%;
+}
+
+.captchacon {
+    width: 250px;
+}
+
+.loginform {
+    border-radius: 25px;
+    background-color: #454545;
+    align-content: center;
+    text-align: center;
+    padding:25px;
+    margin: auto;
+}
+
+#captcha_code_input {
+    width: 170px;
+}
+
+
+@media (max-width: 820px){
+    .container {
+        top: 50%;
+        width: 90%;
+        transform: translate(-50%, -50%);
+    }
+}

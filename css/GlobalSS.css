@@ -1,0 +1,115 @@
+html,  /*Webportal a1.3 */
+body {
+    height: 100%;
+    margin: 0;
+}
+
+@media (max-width: 415px) {
+    .banleft{
+        width: 50%;
+        float: left;
+        font-weight: bolder;
+        font-size: medium !important;
+        text-align: center !important;
+        padding-right: 5px;
+        padding-top: 10px;
+    }
+    
+    .banright{
+        width: 50%;
+        float: left;
+        font-weight: bolder;
+        font-size: medium !important;
+        text-align: center !important;
+        padding-left: 5px;
+        padding-top: 10px;
+    }
+}
+
+header {
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #262626;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.usernamecontainer {
+    color: darkorange;
+}
+
+.backbttncontainer {
+    float: left;
+    padding-left: 15px;
+    padding-top: 5px;
+    width:200px;
+}
+
+.bttncontainer {
+    float: right;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.banner {
+    height: 70px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.banleft{
+    width: 55%;
+    float: left;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.banright{
+    width: 45%;
+    float: left;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: left;
+    padding-left: 5px;
+}
+
+
+.content {
+    height: fit-content;
+    width: 100%;
+    background-color: #262626;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.labelstyle {
+    font-weight: bold;
+}
+
+#formbutton {
+    background-color: black;
+    border-color: black;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+}
+
+#votebttn {
+    background-color: #38ba61;
+    border-color: #38ba61;
+    color: black;
+    font-weight: bold;
+    width: 100px;
+}
+
+
+footer {
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #262626;
+}
